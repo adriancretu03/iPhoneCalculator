@@ -1,3 +1,3 @@
 # iPhone-Calculator
 
-![img](https://github.com/adriancretu03/iPhone-Calculator/blob/main/img.jpg)
+![img](https://github.com/adriancretu03/iPhoneCalculator/blob/main/img.jpg)
